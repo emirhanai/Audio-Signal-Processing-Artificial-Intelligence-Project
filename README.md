@@ -7,6 +7,7 @@ In my Audio Signal Processing Project, I gave importance to data cleaning by rem
 Kind regards,
 Emirhan Bulut
 
+You can download this model as using this link. (Emirhan_Model.zip) : https://github.com/emirhanai/Audio-Signal-Processing-Artificial-Intelligence-Project/releases/tag/model
 
 ###**The coding language used:**
 
